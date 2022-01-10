@@ -6,11 +6,13 @@
 [tim.bande_annonce](https://vimeo.com/191534718)  
 [créateurs](https://vimeo.com/241779346)  
 
-Tim est un spectacle de projection 3D immersif qui, contrairement à bien des œuvres du genre, propose une authentique trame narrative. L’émotion brute que suscite le visuel est donc doublée ici d’une dimension humaine, où le protagoniste tente de transcender la matière et le temps.  
+Tim est un spectacle de projection 3D immersif qui, contrairement à bien des œuvres du genre, propose une authentique trame narrative. L’émotion brute que suscite le visuel est doublée ici d’une dimension humaine, où le protagoniste tente de transcender la matière et le temps.  
 
 Réalisation : Nicolas Noël Jodoin  
 Musique : Joël Aimé-Beauchamp  
 Texte : Marussia Lamy  
+
+Défis techniques : 
 
 
     
