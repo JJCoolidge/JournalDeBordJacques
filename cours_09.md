@@ -12,7 +12,10 @@ Réalisation : Nicolas Noël Jodoin
 Musique : Joël Aimé-Beauchamp  
 Texte : Marussia Lamy  
 
-Défis techniques : 
+DÉFIS TECHNIQUES  
+- Configuration de projection 360 degré  
+- Dispersion des images 3D sur une dizaine de projecteurs  
+- Mixage sonore avec spatialisation sur 157 haut-parleurs  
 
 
     
