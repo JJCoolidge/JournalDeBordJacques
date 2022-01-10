@@ -17,6 +17,9 @@ DÉFIS TECHNIQUES
 - Dispersion des images 3D sur une dizaine de projecteurs  
 - Mixage sonore avec spatialisation sur 157 haut-parleurs  
 
+DÉFIS ARTISTIQUES  
+- Conserver la dimension humaine en dépit de l'aspect monumental de la projection  
+- Donner l'impression d'une suspension dans le temps et l'espace
 
     
     
